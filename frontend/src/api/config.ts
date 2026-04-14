@@ -42,5 +42,7 @@ export const api = {
     deliveries: '/api/deliveries',
     orderDetails: '/api/order-details',
     orderDetailDeliveries: '/api/order-detail-deliveries',
+    dietProducts: '/api/diet/products',
+    dietGenerate: '/api/diet/generate',
   },
 };
